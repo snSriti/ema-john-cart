@@ -1,0 +1,27 @@
+.product img{
+    width: 230px;
+    height: 230px;
+    margin: 7px;
+}
+.product{
+    width: 250px;
+    height: 450px;
+    border: 1px solid #95a0a7;
+    border-radius: 8px;
+    position: relative;
+}
+.btn-cart {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	align-items: center;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	border: none;
+	background: orange;
+	border-radius: 0 0 8px 8px;
+}
+.product-info {
+	text-align: center;
+}
